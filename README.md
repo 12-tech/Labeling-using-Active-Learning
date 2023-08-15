@@ -7,7 +7,3 @@ This project aims to create a system that can accurately label sugarbeet plants 
 
 The project utilizes deep learning algorithms to train models capable of identifying and labeling sugarbeet plants. Active learning strategies are employed to actively select samples most likely to improve the model's performance when labeled. This iterative process optimizes the labeling effort by prioritizing samples that contribute the most to the model's learning.
 
-**Repository Structure**
-code/: This directory contains the source code for the labeling system and active learning algorithms.
-models/: This directory stores trained models generated during the project.
-reports/: This directory contains reports and documentation related to the project.
